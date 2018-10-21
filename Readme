@@ -1,0 +1,4 @@
+Run the script like this:
+./GamePriceScraper.py "Game Title"
+
+The script returns the best deal for all the games that match your Game Title.

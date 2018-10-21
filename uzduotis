@@ -1,0 +1,13 @@
+Test app:
+    Create a small app to find the average and lowest selling price for some game in https://www.allkeyshop.com site. Provide a link, without a referral, where to buy searched game for a lowest price.
+
+    Some requirements:
+         - Use Python 3.x
+         - Console application
+         - Provide README file how to set up and use your console application.
+
+    Example app execution:
+        ./best_price "Dishonored 2"
+
+    Example output:
+        Game: "Dishonored 2", Average Price: 20.16230769230769, Lowest price: 6.79, Link: https://www.cdkeys.com/pc/games/dishonored-2-pc-cd-key-steam
