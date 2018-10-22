@@ -1,4 +1,11 @@
-Run the script like this:
-./GamePriceScraper.py "Game Title"
+To run the script you will need beautifulsoup4,requests, selenium and furl packages.
+Install them like this:
+
+pip install -r requirements.txt
+
+Change variable chromepath in game_price_scraper.py to your chromedriver path.
+
+usage ./game_price_scraper.py "Game Title"
 
 The script returns the best deal for all the games that match your Game Title.
+
